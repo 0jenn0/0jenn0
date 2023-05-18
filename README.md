@@ -1,8 +1,14 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
+
+
+<div style="display:flex">
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=0jenn0)](https://solved.ac/0jenn0)
+  <img width="200" src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif"/>
+</div>
+
 
 <!--
 **0jenn0/0jenn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
