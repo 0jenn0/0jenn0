@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 
-
+<img src="https://git-bubble-85x8.vercel.app/api/bubble?title=Status&tags=사프중,좀만기다려달라&theme=neon&animation=float&profileUrl=https://i.pinimg.com/736x/5c/05/a1/5c05a1c87bf9a232c51077d58bb8afec.jpg" />
 
 
 
