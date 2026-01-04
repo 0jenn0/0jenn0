@@ -8,7 +8,7 @@
 
 ### 📌 Git Bubble 💬
 
-<a href="https://git-bubble.vercel.app/" target="_blank"><img src="https://git-bubble.vercel.app/api/link?url=https%3A%2F%2Fgit-bubble.vercel.app%2F&theme=dark&width=400&thumbnail=https%3A%2F%2Fohxmzftzhbcqmbirlvxc.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fprofile-images%2F4ea26baa-f63f-40f1-ba6b-0bbd2ddd279b.jpg" /></a>
+<a href="https://git-bubble.vercel.app/" target="_blank"><img src="https://git-bubble.vercel.app/api/link?url=https%3A%2F%2Fgit-bubble.vercel.app%2F&theme=dark&width=400&thumbnail=https%3A%2F%2Fohxmzftzhbcqmbirlvxc.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fprofile-images%2F81301f9a-883a-4546-8842-9f3234f2d5e2.jpg&badge=true&badgeText=NEW%E2%9C%A8&badgeColor=%23E91E63" /></a>
 
 
 <!--
