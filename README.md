@@ -4,7 +4,13 @@
 
 <img src="https://git-bubble.vercel.app/api/bubble?tags=%EC%A6%90%EA%B2%81%EB%8B%A4&mode=text&title=%ED%98%84%EC%9E%AC+%EC%8B%AC%EC%A0%95&theme=dark&direction=right&profileUrl=https%3A%2F%2Fohxmzftzhbcqmbirlvxc.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fprofile-images%2Fe04c314f-902d-4e7c-9d6e-302672c6f4b7.jpg&width=400&fontSize=12" />
 
+----
 
+### 📌 Git Bubble 💬
+
+  <a href="https://git-bubble.vercel.app" target="_blank">
+    <img src="https://git-bubble.vercel.app/api/link?url=https://git-bubble.vercel.app&theme=light&width=400" alt="Git Bubble" />
+  </a>
 
 
 <!--
