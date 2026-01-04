@@ -4,11 +4,9 @@
 
 <img src="https://git-bubble.vercel.app/api/bubble?tags=%EC%A6%90%EA%B2%81%EB%8B%A4&mode=text&title=%ED%98%84%EC%9E%AC+%EC%8B%AC%EC%A0%95&theme=dark&direction=right&profileUrl=https%3A%2F%2Fohxmzftzhbcqmbirlvxc.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fprofile-images%2Fe04c314f-902d-4e7c-9d6e-302672c6f4b7.jpg&width=400&fontSize=12" />
 
-----
+<img src="https://git-bubble.vercel.app/api/divider?style=dots&color=%23000000&animation=false&width=500&theme=light" />
 
-### 📌 Git Bubble 💬
-
-<a href="https://git-bubble.vercel.app/" target="_blank"><img src="https://git-bubble.vercel.app/api/link?url=https%3A%2F%2Fgit-bubble.vercel.app%2F&theme=dark&width=400&thumbnail=https%3A%2F%2Fohxmzftzhbcqmbirlvxc.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fprofile-images%2F81301f9a-883a-4546-8842-9f3234f2d5e2.jpg&badge=true&badgeText=NEW%E2%9C%A8&badgeColor=%23E91E63" /></a>
+<a href="https://git-bubble.vercel.app/" target="_blank"><img src="https://git-bubble.vercel.app/api/link?url=https%3A%2F%2Fgit-bubble.vercel.app%2F&theme=dark&width=400&thumbnail=https%3A%2F%2Fohxmzftzhbcqmbirlvxc.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fprofile-images%2F153095a2-c9fb-4754-b758-7c44ab404106.jpg&badge=true&badgeText=NEW%E2%AD%90%EF%B8%8F&badgeColor=%23E91E63" /></a>
 
 
 <!--
