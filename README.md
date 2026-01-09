@@ -6,12 +6,11 @@
 
 
 
-<img src="https://git-bubble.vercel.app/api/divider?style=dashes&color=%23000000&animation=true&width=600&theme=light&size=0.6" />
-
+<img src="https://git-bubble.vercel.app/api/divider?style=stars&color=%23FFFFFF&animation=true&width=600&theme=light&size=1" />
 
 <img src="https://git-bubble.vercel.app/api/village?username=0jenn0&width=600&height=200&theme=light" />
 
-<img src="https://git-bubble.vercel.app/api/divider?style=dashes&color=%23000000&animation=true&width=600&theme=light&size=0.6" />
+<img src="https://git-bubble.vercel.app/api/divider?style=stars&color=%23FFFFFF&animation=true&width=600&theme=light&size=1" />
 
 <img src="https://git-bubble.vercel.app/api/bubble?tags=%EB%B0%91%EC%9D%98+%EA%B3%A0%EC%96%91%EC%9D%B4%EB%93%A4+%ED%82%A4%EC%9A%B0%EC%8B%9C%EA%B3%A0%EC%8B%B6%EC%9C%BC%EB%A9%B4+%EC%9C%84+%EB%A7%81%ED%81%AC%EB%A1%9C+%F0%9F%94%97&mode=text&title=About+Me&theme=light&direction=right&profileUrl=https%3A%2F%2Fohxmzftzhbcqmbirlvxc.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fprofile-images%2F943cd2d2-b7e6-4f34-96c1-5c6f9e1f52f7.jpg&width=400&fontSize=12" />
 
