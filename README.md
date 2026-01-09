@@ -1,8 +1,10 @@
 <!-- ### Hi there 👋 -->
 
-<!-- <img src="https://git-bubble.vercel.app/api/bubble?title=Status&tags=사프중🔥&theme=neon&animation=float&profileUrl=https://i.pinimg.com/736x/5c/05/a1/5c05a1c87bf9a232c51077d58bb8afec.jpg" />
+<a href="https://git-bubble.vercel.app/" target="_blank"><img src="https://git-bubble.vercel.app/api/link?url=https%3A%2F%2Fgit-bubble.vercel.app%2F&theme=light&width=400&thumbnail=https%3A%2F%2Fohxmzftzhbcqmbirlvxc.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fprofile-images%2F9d31d0a8-eeed-4632-88d4-a3bc7c77c670.jpg&badge=true&badgeText=NEW%E2%9C%A8&badgeColor=%23000000" /></a>
 
-<img src="https://git-bubble.vercel.app/api/bubble?tags=%EC%A6%90%EA%B2%81%EB%8B%A4&mode=text&title=%ED%98%84%EC%9E%AC+%EC%8B%AC%EC%A0%95&theme=dark&direction=right&profileUrl=https%3A%2F%2Fohxmzftzhbcqmbirlvxc.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fprofile-images%2Fe04c314f-902d-4e7c-9d6e-302672c6f4b7.jpg&width=400&fontSize=12" /> -->
+
+
+
 
 <img src="https://git-bubble.vercel.app/api/divider?style=dashes&color=%23000000&animation=true&width=600&theme=light&size=0.6" />
 
@@ -11,7 +13,9 @@
 
 <img src="https://git-bubble.vercel.app/api/divider?style=dashes&color=%23000000&animation=true&width=600&theme=light&size=0.6" />
 
-<a href="https://git-bubble.vercel.app/" target="_blank"><img src="https://git-bubble.vercel.app/api/link?url=https%3A%2F%2Fgit-bubble.vercel.app%2F&theme=dark&width=400&thumbnail=https%3A%2F%2Fohxmzftzhbcqmbirlvxc.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fprofile-images%2F153095a2-c9fb-4754-b758-7c44ab404106.jpg&badge=true&badgeText=NEW%E2%AD%90%EF%B8%8F&badgeColor=%23E91E63" /></a>
+<img src="https://git-bubble.vercel.app/api/bubble?tags=%EB%B0%91%EC%9D%98+%EA%B3%A0%EC%96%91%EC%9D%B4%EB%93%A4+%ED%82%A4%EC%9A%B0%EC%8B%9C%EA%B3%A0%EC%8B%B6%EC%9C%BC%EB%A9%B4+%EC%9C%84+%EB%A7%81%ED%81%AC%EB%A1%9C+%F0%9F%94%97&mode=text&title=About+Me&theme=light&direction=right&profileUrl=https%3A%2F%2Fohxmzftzhbcqmbirlvxc.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fprofile-images%2F943cd2d2-b7e6-4f34-96c1-5c6f9e1f52f7.jpg&width=400&fontSize=12" />
+
+
 
 
 <!--
